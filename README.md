@@ -4,6 +4,8 @@
 * A DiamondStar.java file where the program prints stars as a diamond shape.
 * A TriangleStar.java file where the program prints stars as a triangle shape.
 
+**The data on how many lines to print the stars are taken from the user.**
+
 ---
 
 ## Installation
